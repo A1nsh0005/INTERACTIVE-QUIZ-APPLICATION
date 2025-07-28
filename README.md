@@ -51,3 +51,9 @@ Making it a progressive web app (PWA) for offline access.
 
 Conclusion
 The Simple Quiz Application is a foundational project that demonstrates how effective and interactive applications can be built using only HTML, CSS, and JavaScript. It emphasizes the importance of clean UI design, responsive user interaction, and modular code structure. It serves not only as a functional tool for quiz-based interaction but also as a strong educational resource for beginner to intermediate web developers who are learning how to build interactive web applications from scratch.#
+
+
+
+OUTPUT:
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/58fabd0e-65c5-4f3c-ab0f-8f81dbd5b708" />
